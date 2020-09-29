@@ -1,2 +1,1 @@
-TestGit
-깃 
+TestGi
